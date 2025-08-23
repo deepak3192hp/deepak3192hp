@@ -1,78 +1,85 @@
-<!-- Profile Banner Animation -->
+<!-- 🔮 Innovative AI Banner Animation -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/banner.gif" alt="Profile banner" width="100%" />
+  <img src="https://giffiles.alphacoders.com/887/8871.gif" alt="AI Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Deepak Sharma</h1>
-<p align="center">🚀 Data Engineer | Data Scientist | Generative AI Enthusiast</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Turning+data+into+insights+💡;Building+ML+solutions+🤖;Crafting+GenAI+apps+🧠;Automating+everything+⚙️" alt="Typing animation" />
-</p>
+<h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
+<h3 align="center">🚀 Data Engineer | Data Scientist | Generative AI Enthusiast</h3>
+---
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFC107?logo=scikit-learn&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?logo=openai&logoColor=white&style=for-the-badge" />
+</p>
+
+<!-- Animation: Futuristic AI Loop -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Futuristic Loop" width="400"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📊 **Sales Analytics Dashboard**
-> Power BI dashboard that visualizes KPIs and business insights.
-- **Tech**: Power BI, SQL, DAX
+### 📊 Sales Analytics Dashboard
+Power BI dashboard with KPIs and business insights.  
+**Tools**: Power BI, SQL, DAX
 
-### 🔄 **ETL Pipeline for Customer Analytics**
-> End-to-end data pipeline using Python and Snowflake.
-- **Tech**: Snowflake, Pandas, SQL
+### 🔄 Customer ETL Pipeline
+Python + Snowflake-based data pipeline for customer behavior tracking.  
+**Tools**: Python, Pandas, Snowflake
 
-### 🤖 **ML Model for Churn Prediction**
-> Achieved 85%+ accuracy using XGBoost & scikit-learn.
-- **Tech**: Scikit-learn, Python
+### 🤖 Churn Prediction Model
+ML classification model with 85%+ accuracy.  
+**Tools**: Scikit-learn, XGBoost, Matplotlib
 
-### 🧠 **GenAI Chatbot**
-> Interactive chatbot using OpenAI's LLMs and prompt engineering.
-- **Tech**: OpenAI API, Streamlit
+### 🧠 GenAI Chatbot
+LLM-based chatbot using OpenAI APIs + prompt engineering.  
+**Tools**: Python, Streamlit, OpenAI
 
----
-
-## ✨ GitHub Stats & Activity
-
+<!-- Animation: AI Brain -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI Brain" width="400"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## ✨ GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak3192">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak3192hp&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak3192hp&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak3192hp&show_icons=true&theme=dracula" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/deepak3192">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:deepaksharmame31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+</p>
+
+<!-- Animation: Data Streams -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Flow Animation" width="600" />
 </p>
 
 ---
 
-> ⭐ Feel free to explore my projects, fork the repos, and connect!
-
+⭐ Feel free to explore my projects, fork the repos, and leave a ⭐ if something inspires you!
